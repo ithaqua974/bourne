@@ -1,0 +1,22 @@
+{
+    "nom": "Bourne",
+    "prénom": "Json",
+    "age": "39",
+    "profession": "agent secret",
+    "email": "json.bourne@cia.gouv.us",
+    "téléphone": "555123456"
+} {
+    "nom": "Back",
+    "prénom": "J.S",
+    "age": "335",
+    "profession": "compositeur",
+    "email": "js.back@composer.de",
+    "téléphone": "123456789"
+} {
+    "nom": "frontenoy",
+    "prénom": "node",
+    "age": "42",
+    "profession": "navigatrice web",
+    "email": "node.frontenoy@ocean.fr",
+    "téléphone": "555123456"
+}
